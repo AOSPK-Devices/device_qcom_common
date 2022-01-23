@@ -1,6 +1,6 @@
 [
     {
-       "remote"      : "pixel-devices-blobs",
+       "remote"      : "blobs",
        "repository"  : "vendor_qcom_common",
        "target_path" : "vendor/qcom/common",
        "branch"      : "twelve"
